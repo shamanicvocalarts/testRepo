@@ -1,4 +1,5 @@
-this is a test document 
+OK. the push waas succesful
+
+now its time to pull 
 
 
-we will try to push this to github & see what happens
