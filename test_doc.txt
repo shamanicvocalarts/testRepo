@@ -1,5 +1,3 @@
-OK. the push waas succesful
+fucking amazing. 
 
-now its time to pull 
-
-
+now lets see if this commit works
